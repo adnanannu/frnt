@@ -42,8 +42,8 @@ const ContactForm = () => {
     <h1>Contact Us</h1>
     <p>If you have any questions or need further assistance, please do not hesitate to reach out to us. You can contact us using the form below or via the contact details provided.</p>
 
-    <div className="contact-info">
-      <h2>Our Contact Details</h2>
+    <div className="contact-container">
+      <h1>Our Contact Details</h1>
       <p><strong>Address:</strong> 123 Business Road, Business City, BC 12345</p>
       <p><strong>Phone:</strong> +1 (234) 567-8901</p>
       <WhatsAppButton/>

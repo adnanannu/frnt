@@ -320,7 +320,7 @@ button[type="submit"]:hover {
 }
 
 .client-showcase h2 span {
-  color: #f57c00; /* You can adjust the color */
+  color: #011335; /* You can adjust the color */
 }
 
 .client-showcase p {
@@ -360,7 +360,7 @@ button[type="submit"]:hover {
 }
 
 .highlight {
-  color: #f36a1b; /* Adjust color to match the design */
+  color: #040f5f; /* Adjust color to match the design */
 }
 
 .description {
@@ -391,7 +391,8 @@ button[type="submit"]:hover {
 }
 
 .service-card img {
-  width: 60px;
+  width: 220px;
+  height: 160px;
   margin-bottom: 15px;
 }
 
@@ -1079,4 +1080,80 @@ h2 {
 .team-description {
   font-size: 0.9rem;
   color: #666;
+}
+
+
+
+
+.hr-services {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+
+.title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #2c3e50;
+  margin-bottom: 1.5rem;
+}
+
+.intro {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #7f8c8d;
+  margin-bottom: 2.5rem;
+}
+
+.service-section {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  margin-bottom: 2rem;
+  transition: transform 0.3s ease;
+}
+
+.service-section:hover {
+  transform: translateY(-10px);
+}
+
+.service-section img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 10px;
+  margin-top: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.service-section h2 {
+  font-size: 1.8rem;
+  color: #2980b9;
+  margin-bottom: 1rem;
+}
+
+.service-section p {
+  font-size: 1.1rem;
+  color: #34495e;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .service-section {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .service-section img {
+    flex-shrink: 0;
+  }
+
+  .service-section h2, 
+  .service-section p {
+    text-align: left;
+  }
 }

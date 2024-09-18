@@ -36,8 +36,8 @@ const Construction = () => {
   };
   const jobs = [
     {
-      title: 'Construction Assistant',
-      salary: '46,415',
+      title: 'Block Mason',
+      salary: '1200-4000 aed',
       duties: [
         'Cleaning the site',
         'Preparing materials for use, such as pipes and wood',
@@ -46,8 +46,8 @@ const Construction = () => {
       image: 'https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/cms/927407842AssistantConstructionSuperintendent.jpg=ws1280x960', // Placeholder image, replace with actual image URL
     },
     {
-      title: 'Equipment Operator',
-      salary: '52,000',
+      title: 'Helper',
+      salary: '1200+ot - 3500 aed',
       duties: [
         'Equipment operators drive and operate construction-class vehicles required on a project site, such as excavators, dump trucks, cranes and concrete mixers. Equipment operators may also perform the following functions:',
         'Understanding and adhering to all equipment safety guidelines',
@@ -58,8 +58,8 @@ const Construction = () => {
       image: 'https://www.ptsworks.com/wp-content/uploads/2021/10/heavy-machinery-operator-requirements.jpg', // Replace with actual image
     },
     {
-      title: 'General laborer',
-      salary: '52,000',
+      title: 'Carpenter',
+      salary: '1200-4000 aed',
       duties: [
         'General laborers should be in good physical health due to the demanding work required. They may need to lift heavy objects, operate heavy machinery and work in extreme weather conditions. General laborers perform a wide variety of physical tasks on a construction site, including',
         'Clearing debris and waste from the job site',
@@ -69,8 +69,8 @@ const Construction = () => {
       image: 'https://www.shutterstock.com/image-photo/smiling-portrait-beautiful-latin-female-260nw-1945399792.jpg', // Replace with actual image
     },
     {
-      title: 'Construction foreperson',
-      salary: '52,000',
+      title: 'Steel Fixer',
+      salary: '1200-4000 aed',
       duties: [
         ' leads the work crew. They are responsible for managing employees and overseeing daily productivity. Common responsibilities of a foreperson include:',
         'Training workers',
@@ -79,8 +79,8 @@ const Construction = () => {
       image: 'https://thebirmgroup.com/wp-content/uploads/2022/07/Construction-General-Foreman-Salary-.jpg', // Replace with actual image
     },
     {
-      title: 'Scheduler',
-      salary: '52,000',
+      title: 'Pipe fabricator',
+      salary: '1200-4000 aed',
       duties: [
         'Overseeing workers on site',
         'Ensuring safety regulations are followed',
@@ -89,8 +89,8 @@ const Construction = () => {
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5U5Y18JEyqyDWXHsIFQehFMkea4piQmLB-w&s', // Replace with actual image
     },
     {
-      title: 'Field engineer',
-      salary: '52,000',
+      title: 'structure fabricator',
+      salary: '1200-4000 aed',
       duties: [
         'Overseeing workers on site',
         'Ensuring safety regulations are followed',
@@ -99,8 +99,8 @@ const Construction = () => {
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTzZ-ZmlhBRJOi7uI1Y6IcUAmp8F8Sp5lt3aPJyp5EaAPmZQPdzCgKoU5CBlp-qrmKxg&usqp=CAU', // Replace with actual image
     },
     {
-      title: 'Surveyor',
-      salary: '52,000',
+      title: 'Mig welder',
+      salary: '1500-5000aed',
       duties: [
         'Overseeing workers on site',
         'Ensuring safety regulations are followed',
@@ -109,8 +109,8 @@ const Construction = () => {
       image: 'https://via.placeholder.com/150', // Replace with actual image
     },
     {
-      title: 'Safety manager',
-      salary: '52,000',
+      title: 'Arc Welder',
+      salary: '1500-5000aed',
       duties: [
         'Overseeing workers on site',
         'Ensuring safety regulations are followed',
@@ -118,6 +118,97 @@ const Construction = () => {
       ],
       image: 'https://via.placeholder.com/150', // Replace with actual image
     },
+    {
+      title: 'Fitter',
+      salary: '1500-5000aed',
+      duties: [
+        'Overseeing workers on site',
+        'Ensuring safety regulations are followed',
+        'Reporting progress to the project manager',
+      ],
+      image: 'https://via.placeholder.com/150', // Replace with actual image
+    },
+    {
+      title: 'Mechanical helper',
+      salary: '1500-5000aed',
+      duties: [
+        'Overseeing workers on site',
+        'Ensuring safety regulations are followed',
+        'Reporting progress to the project manager',
+      ],
+      image: 'https://via.placeholder.com/150', // Replace with actual image
+    },
+    {
+      title: 'Electrician',
+      salary: '1500-5000aed',
+      duties: [
+        'Overseeing workers on site',
+        'Ensuring safety regulations are followed',
+        'Reporting progress to the project manager',
+      ],
+      image: 'https://via.placeholder.com/150', // Replace with actual image
+    },
+    {
+      title: 'Plumber',
+      salary: '1500-5000aed',
+      duties: [
+        'Overseeing workers on site',
+        'Ensuring safety regulations are followed',
+        'Reporting progress to the project manager',
+      ],
+      image: 'https://via.placeholder.com/150', // Replace with actual image
+    },
+    {
+      title: 'Painter',
+      salary: '1500-5000aed',
+      duties: [
+        'Overseeing workers on site',
+        'Ensuring safety regulations are followed',
+        'Reporting progress to the project manager',
+      ],
+      image: 'https://via.placeholder.com/150', // Replace with actual image
+    },
+    {
+      title: 'Tile mason',
+      salary: '1500-5000aed',
+      duties: [
+        'Overseeing workers on site',
+        'Ensuring safety regulations are followed',
+        'Reporting progress to the project manager',
+      ],
+      image: 'https://via.placeholder.com/150', // Replace with actual image
+    },
+    {
+      title: 'Rigger',
+      salary: '1500-5000aed',
+      duties: [
+        'Overseeing workers on site',
+        'Ensuring safety regulations are followed',
+        'Reporting progress to the project manager',
+      ],
+      image: 'https://via.placeholder.com/150', // Replace with actual image
+    },
+    {
+      title: 'Heavy drivers',
+      salary: '1500-5000aed',
+      duties: [
+        'Overseeing workers on site',
+        'Ensuring safety regulations are followed',
+        'Reporting progress to the project manager',
+      ],
+      image: 'https://via.placeholder.com/150', // Replace with actual image
+    },
+    {
+      title: 'AC technician',
+      salary: '1500-5000aed',
+      duties: [
+        'Overseeing workers on site',
+        'Ensuring safety regulations are followed',
+        'Reporting progress to the project manager',
+      ],
+      image: 'https://via.placeholder.com/150', // Replace with actual image
+    }
+
     // Add more jobs if needed
   ];
 

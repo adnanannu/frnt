@@ -7,7 +7,7 @@ function Footer() {
       <footer className="footer-container">
       <div className="footer-content">
         <div className="footer-section company-info">
-          <h3>Blue Chip Colombo HR Services</h3>
+          <h3>PGRM HR Services</h3>
           <p>
             Providing exceptional HR solutions tailored to your business needs. 
             We specialize in recruitment, employee management, and HR consultancy.
@@ -33,7 +33,7 @@ function Footer() {
         </div>
       </div>
       <div className="footer-bottom">
-        <p>&copy; 2024 Blue Chip Colombo HR Services. All Rights Reserved.</p>
+        <p>&copy; 2024 PGRM HR Services. All Rights Reserved.</p>
       </div>
     </footer>
     

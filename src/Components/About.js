@@ -74,7 +74,7 @@ const About = () => {
       </div>
       <div className="text-section">
         <p>
-        Welcome to Blue Chip Colombo HR Services – a leading HR consultancy dedicated to delivering tailored recruitment and human resource solutions to businesses across various industries. With a deep understanding of the dynamic needs of modern organizations, we bridge the gap between talent and opportunity, helping companies build a workforce that drives success. 
+        Welcome to PGRM Colombo HR Services – a leading HR consultancy dedicated to delivering tailored recruitment and human resource solutions to businesses across various industries. With a deep understanding of the dynamic needs of modern organizations, we bridge the gap between talent and opportunity, helping companies build a workforce that drives success. 
         </p>
        
         
